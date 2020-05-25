@@ -8,4 +8,4 @@
 
 4. Display the HMM POS tagging on the first 4 rows of ‘Review Text’ 
 
- 5 .Parse the first 4 rows of ‘Review Text’ using Viterbi Parser [Use toy_pcfg1 and toy_pcfg2 to get the probabilistic context free grammars; use the PCFG suitable for each sentence] 
+5. Parse the first 4 rows of ‘Review Text’ using Viterbi Parser [Use toy_pcfg1 and toy_pcfg2 to get the probabilistic context free grammars; use the PCFG suitable for each sentence] 
